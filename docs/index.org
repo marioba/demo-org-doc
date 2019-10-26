@@ -18,4 +18,4 @@
 * Title
   La rana in Spagna gracida in campagna
 
-  [[another-page.html][another-page]]
+  this is [[/another-page.html][another-page]]
