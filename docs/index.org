@@ -1,4 +1,11 @@
+#+TITLE:     Documentation
+#+AUTHOR:    Mario Baranzini
+#+EMAIL:     mario@opengis.ch
+#+DATE:      2019-10-26
+#+LANGUAGE:  en
+#+OPTIONS:   H:4 num:nil toc:2
+
 #+SETUPFILE: https://fniessen.github.io/org-html-themes/setup/theme-readtheorg.setup
 
 * Title
-  La rana in Spagna gracida in campagna1
+  La rana in Spagna gracida in campagna
