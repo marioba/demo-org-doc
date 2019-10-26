@@ -1,2 +1,4 @@
 * Demo of creating documentation with org mode and publish it with github pages
-  See https://github.com/fniessen/org-html-themes
+  Using readtheorg theme by https://github.com/fniessen/org-html-themes
+
+  the result is [[https://marioba.github.io/demo-org-doc/][here]]
