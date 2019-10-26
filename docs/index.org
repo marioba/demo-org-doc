@@ -18,4 +18,4 @@
 * Title
   La rana in Spagna gracida in campagna
 
-  this is [[/another-page.html][another-page]]
+  this is [[https://marioba.github.io/demo-org-doc/another-page.html][another-page]]
