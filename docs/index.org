@@ -7,5 +7,12 @@
 
 #+SETUPFILE: https://fniessen.github.io/org-html-themes/setup/theme-readtheorg.setup
 
+#+begin_html
+<div class="right">
+  <a href="https://github.com/marioba/demo-org-doc/blob/master/docs/index.org" class="fa fa-github"> Edit on GitHub</a>
+</div>
+#+end_html
+
+-----
 * Title
   La rana in Spagna gracida in campagna
